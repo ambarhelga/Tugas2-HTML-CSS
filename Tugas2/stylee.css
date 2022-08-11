@@ -1,0 +1,56 @@
+body {
+    background: var(--bg);
+}
+
+.container {
+    border: solid;
+    margin: 20px 350px 0px 350px;
+}
+
+.banner img {
+    border-top: solid;
+    width: 627px;
+    height: 220px;
+    border-bottom: solid;
+}
+
+.header .title {
+    margin-top: -1.5px;
+    font-family: 'Comic Neue', cursive;
+}
+
+.header .navbar {
+    word-spacing: 0.75rem;
+    margin-bottom: 15px;
+}
+
+.artikel .heading {
+    margin-top: 2.5px;
+    font-family: 'Comic Neue', cursive;
+}
+
+.artikel p {
+    font-size: .6rem;
+    font-style: inherit;
+}
+
+.content p {
+    padding-top: 10px;
+}
+
+.footer {
+    background: #000;
+    height: 35px;
+}
+
+.footer p {
+    padding: 5.5px;
+    color: white;
+    text-align: center;
+}
+
+
+
+/* .banner .img {
+    right: -100%;
+} */
